@@ -1,0 +1,42 @@
+.responsive {
+    display: flex;
+    justify-content: space-between;
+    width: 90%;
+    margin: 10px auto;
+    font-family: 'Merriweather', sans-serif;
+    flex-wrap: wrap;
+}
+
+.forbes-news-title {
+    font-family: 'Crete Round', sans-serif;
+    margin: 0 5%;
+    border-bottom: 5px solid black;
+    padding: 0 0 7px;
+}
+
+.content {
+    width: 24%;
+    background-size: cover;
+    color: black;
+    border-bottom: 1px solid black;
+    margin: 5px;
+}
+
+.content > a {
+    text-decoration: none;
+}
+
+.content > h4 {
+    font-size: 15px;
+}
+
+.content > p {
+    font-size: 12px;
+    color: black;
+    margin-bottom: 2px;
+}
+
+a {
+    text-decoration: none;
+}
+

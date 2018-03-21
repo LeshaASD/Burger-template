@@ -1,0 +1,19 @@
+.under-menu {
+    display: flex;
+    margin: 10px auto;
+    border-bottom: 1px solid white;
+    width: 90%;
+    justify-content: space-between;
+}
+
+.social-links {
+    display: flex;
+    width: 150px;
+}
+
+.social-links a {
+    margin: 5px;
+}
+
+
+

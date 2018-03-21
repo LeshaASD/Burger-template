@@ -1,0 +1,25 @@
+.nav {
+    padding: 10px 0 0 0;
+}
+
+.nav-link {
+    color: black;
+    font-weight: bold;
+    margin: 0 20px;
+    font-size: 17px;
+}
+@media screen and (max-width: 960px){
+    .nav-link {
+        margin: 0;
+    }
+}
+
+@media screen and (max-width: 730px){
+    .nav-link {
+        font-size: 15px;
+    }
+}
+
+.active-Link {
+    color: red;
+}

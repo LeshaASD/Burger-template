@@ -1,0 +1,24 @@
+.lil-news-promo {
+    width: 24%;
+    color: white;
+    padding: 15px;
+}
+
+@media screen and (max-width: 950px){
+    .lil-news-promo {
+        width: 40%;
+        padding: 5px;
+    }
+}
+
+.lil-news-promo h4 {
+    font-size: 16px;
+}
+
+.lil-news-promo p {
+    font-size: 12px;
+}
+
+.lil-news-promo small {
+    color: #d6bb22;
+}
